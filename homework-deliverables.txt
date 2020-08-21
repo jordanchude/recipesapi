@@ -1,0 +1,4 @@
+*DELIVERABLES*
+1. Full code base for RESTFul API: Pushed
+2. Heroku URL: https://jwrecipeapp.herokuapp.com/
+3. Username: 'jordanwilliams', Password: 'password'
